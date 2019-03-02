@@ -1,2 +1,2 @@
 # jaeyow.github.io
-Full Stack Developer blog
+Jaeyow - Developer blog
